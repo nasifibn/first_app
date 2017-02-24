@@ -1,0 +1,13 @@
+[user]
+	name = nasifibn
+	email = your.nmajeed@uncc.edu
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

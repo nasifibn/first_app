@@ -1,0 +1,8 @@
+load lib/ruby_intro.rb
+load 'lib/ruby_intro.rb'
+sum_to_n?([1,2,3],5)
+run
+exit
+winner
+winner('R','P')
+quit
